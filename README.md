@@ -4,11 +4,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4zenn&theme=tokyonight&hide_border=true" alt="z4zenn streak" />
-</p></br>
+</p>
 
 ---
 
-<p align="center">
+</br><p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
