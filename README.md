@@ -10,15 +10,25 @@
 ---
 
 
-Analytics
+ Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=z4zenn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4zenn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=z4zenn&show_icons=true&theme=tokyonight&hide_border=true" alt="z4zenn's GitHub stats" />
 </p>
 
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4zenn&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
 ---
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z4zenn/z4zenn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z4zenn/z4zenn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/z4zenn/z4zenn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z4zenn/z4zenn/output/github-contribution-grid-snake-dark.svg">
