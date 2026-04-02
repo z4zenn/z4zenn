@@ -9,7 +9,11 @@
 ---
 
 <p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=z4zenn&show_icons=true&theme=tokyonight&hide_border=true" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
 ---
@@ -25,5 +29,5 @@
 ---
 
 <p align="center">
-  🗺️ 𝙴𝚇𝙿𝙻𝙾𝚁𝙸𝙽𝙶 𝚃𝙷𝙴 𝚆𝙾𝚁𝙻𝙳, 𝙾𝙽𝙴 𝙲𝙾𝙼𝙼𝙸𝚃 𝙰𝚃 𝙰 𝚃𝙸𝙼𝙴 🛸
+  ᴏɴᴇ ᴄᴏᴍᴍɪᴛ ᴀᴛ ᴀ ᴛɪᴍᴇ
 </p>
