@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hello+I+am+Mazen;𝚉𝟺𝚉𝙴𝙽𝙽+𝙳𝙴𝚃𝙴𝙲𝚃𝙴𝙳...;𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚉𝙸𝙽𝙶+𝚂𝚃𝙰𝙲𝙺..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=HELLO+I+AM+MAZEN;𝚉𝟺𝚉𝙴𝙽𝙽+𝙳𝙴𝚃𝙴𝙲𝚃𝙴𝙳...;𝙸𝙽𝙸𝚃𝙸𝙰𝙻𝙸𝚉𝙸𝙽𝙶+𝚂𝚃𝙰𝙲𝙺..." />
 </h1>
 
 <p align="center">
@@ -8,15 +8,11 @@
 
 ---
 
-<h2 align="center"> 🕹️ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚂 🕹️ </h2>
-
 <p align="center">
   <img width="480" src="https://github-readme-stats.vercel.app/api?username=z4zenn&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-<h2 align="center"> 🐍 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴 </h2>
 
 <p align="center">
   <picture>
@@ -29,5 +25,5 @@
 ---
 
 <p align="center">
-  𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ⚡ 𝚋𝚢 𝚣𝟺𝚣𝚎𝚗𝚗
+  🗺️ 𝙴𝚇𝙿𝙻𝙾𝚁𝙸𝙽𝙶 𝚃𝙷𝙴 𝚆𝙾𝚁𝙻𝙳, 𝙾𝙽𝙴 𝙲𝙾𝙼𝙼𝙸𝚃 𝙰𝚃 𝙰 𝚃𝙸𝙼𝙴 🛸
 </p>
