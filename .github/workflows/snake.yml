@@ -20,10 +20,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: z4zenn
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0077ff88&color_dots=#ebedf0,#9be9ff,#64d4ff,#30b3ff,#0077ff
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#0077ff88&color_dots=#161b22,#002d4d,#004b80,#0069b3,#0077ff
-          
+         outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#5c7d9988&color_dots=#ebedf0,#9be9ff,#64d4ff,#30b3ff,#0077ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#5c7d9988&color_dots=#161b22,#002d4d,#004b80,#0069b3,#0077ff
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
