@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=WELCOME&fontSize=90&theme=transparent&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00d4ff,100:000000&height=250&section=header&text=WELCOME&fontSize=90&theme=transparent&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MAZEN..." />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUZAMIL+HUSSAIN;NEXT.JS+&++MERN+DEVELOPER;FULL+STACK+ENGINEER" />
+  </a>
+</div>
 
 <br/>
 
