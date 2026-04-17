@@ -1,10 +1,11 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00d4ff,100:000000&height=250&section=header&text=WELCOME&fontSize=90&theme=transparent&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00d4ff,100:000000&height=250&section=header&text=HELLO%20WORLD&fontSize=80&fontFamily=Inter&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUZAMIL+HUSSAIN;NEXT.JS+&++MERN+DEVELOPER;FULL+STACK+ENGINEER" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MAZEN" />
   </a>
 </div>
 
@@ -32,6 +33,20 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center">Let's Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mazenc" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923154550618" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:zaynch669gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
